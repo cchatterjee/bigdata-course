@@ -1,5 +1,3 @@
-![alt text](https://github.com/Praxis-QR/RDWH/raw/main/images/YantraJaalBanner.png)<br>
-[Yantrajaal](https://www.yantrajaal.com) by [Prithwis Mukerjee](http://www.linkedin.com/in/prithwis)<br>
 ## Big Data with Spark & NoSQL in Google Colab
 
 Students of Data Science need to install or have access to a range of complex software. Most of these softwares run on Linux. This means that students have to either reconfigure their Windows machines to run Linux VMs with Dockers, WSL etc or get a separate Linux machine. Even then, installation of these softwares proves difficult because of differences in machine configuration, different home directories, differing paths and many other complications. <br>
